@@ -1,0 +1,42 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+
+div{
+    width: 200px;
+    height: 200px;
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
+.purple{
+    background-color: purple;
+}
+.pink{
+    background-color: pink;
+}
+.magenta{
+    background-color: magenta;
+}
+.black{
+    background-color: black;
+}
+
+.grey{
+    background-color: grey;
+}
