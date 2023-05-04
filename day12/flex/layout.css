@@ -6,9 +6,13 @@ body{
 }
 
 .container{
+    width: 2000px;
+    height: 1500px;
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 
 }
 
