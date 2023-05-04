@@ -85,3 +85,13 @@ body{
         background-color: Red;
     }
 }
+
+@media (orientation:landscape) {
+    body{
+        background-color: pink;
+    }
+    
+}
+
+
+
