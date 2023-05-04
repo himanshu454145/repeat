@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color: deepskyblue;
     text-align: center;
     color: white;
     font-family: 'Courier New', Courier, monospace;
@@ -8,8 +8,9 @@ body{
 
 
 div{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
 }
 
 .red{
@@ -40,3 +41,10 @@ div{
 .grey{
     background-color: grey;
 }
+
+@media screen and (min-width:700px  ) and (max-width:999px){
+    body{
+        background-color: burlywood;
+    }
+}
+
