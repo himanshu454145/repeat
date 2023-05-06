@@ -1,16 +1,27 @@
-.container{
+body{
+    background-color:burlywood;
     display: flex;
-    flex-direction: column;
+}
+
+
+
+.container{
+
+    display: flex;
+    flex-direction: row;
     border: 2px solid brown;
     display: inline-block;
     justify-content: center;
-    
-    
+    gap: 200px;
+  
+   /* margin: 20px; */
+
 }
 
 .number{
     display: inline;
 }
+
 
 h1{
     display: inline;
@@ -18,18 +29,19 @@ h1{
 
 
 .starter{
+
     font-size: 20px;
-    
     color: grey;
     margin: 0;
+    border-radius: 5px;
     text-transform: uppercase;
     background-color: beige;
-
-
     border: 2px solid brown;
+
 }
 
 .add_to_cart{
     border: 2px solid brown;
+    border-radius: 5px;
     background-color: brown;
 }
