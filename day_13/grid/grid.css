@@ -1,0 +1,44 @@
+.container{
+
+}
+
+div{
+    min-width: 100px;
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+    flex-grow: 2;
+}
+.orange{
+    background-color: orange;
+    order: 1;
+    flex-shrink: 7;
+}
+.purple{
+    background-color: purple;
+    order: 7;
+    flex-grow: 8;
+}
+.pink{
+    background-color: pink;
+    flex-shrink: 2;
+}
+.magenta{
+    background-color: magenta;
+    order: 2;
+}
+.black{
+    background-color: black;
+}
+
+.grey{
+    background-color: grey;
+    
+}
