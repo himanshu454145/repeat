@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid brown;
+    display: inline-block;
+    justify-content: center;
+    
+    
+}
+
+.number{
+    display: inline;
+}
+
+h1{
+    display: inline;
+}
+
+
+.starter{
+    font-size: 20px;
+    
+    color: grey;
+    margin: 0;
+    text-transform: uppercase;
+    background-color: beige;
+
+
+    border: 2px solid brown;
+}
+
+.add_to_cart{
+    border: 2px solid brown;
+    background-color: brown;
+}
