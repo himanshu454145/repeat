@@ -19,7 +19,22 @@ while(val>20){
 for(var i =1;i<11;i++){
     console.log(i*k);
 }
+
+var n = {price:30 , qty:3}
+
+for(i in n){
+  console.log(i);
 }
+
+console.log(5=='5');
+console.log(5=='5');
+
+console.log(5=='5');
+console.log(5=='5');
+
+document.write("do what");
+}
+
 
 
 doo(10);
